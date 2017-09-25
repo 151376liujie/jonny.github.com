@@ -4,7 +4,6 @@
 - Email：jonnyliu0525@qq.com
 - 微信号： \_M0525M_
 
----
 ## 个人信息
 
  - 刘杰/男/1989 
@@ -13,11 +12,12 @@
  - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
  - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
  - 期望职位：Java后台开发工程师
- - 期望薪资：税前18k~20k
+ - 期望薪资：税前20k~22k
  - 期望城市：北京
 
- ---
 ## 技能清单
+
+### 硬技能
 
 - 英语：能熟练阅读英文文档，能适应英文环境
 - 前端
@@ -25,20 +25,25 @@
     - 能写常用的js代码，能套页面。
 - 后端
     - 熟悉分布式项目开发，了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
-    - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
-    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
+    - 熟悉常用数据结构,熟悉JVM,AOP
+    - 熟练使用Spring Boot /Spring MVC /JPA /Mybatis/等开源框架,知晓其原理。
+    - 熟悉python，做过爬虫，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
     - 熟悉HTTP协议;了解RPC框架原理
-    - 熟悉linux操作系统，熟练掌握linux shell，能在linux上搭建开发环境。
+    - 熟悉Nginx,熟练掌握linux shell。
 - 数据库
     - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
-    - 熟练使用redis/memcached等缓存。
+    - 熟练使用redis/memcached/MongoDB等分布式缓存。
 
 - 开放平台：微信公众号开发
 - 版本管理、自动化部署工具：Git/SVN/Maven/jenkins
 - 项目管理工具：Jira/Tower
-- IDE：IntelliJ IDEA/Eclipse/MyEclipse
- 
----
+	
+### 软技能
+
+- 主动沟通/乐于团队合作,有技术热情
+- 主动思考最优解,代码整洁
+
+
 ## 开源项目
 
 ### 项目名称 
@@ -55,7 +60,6 @@
 - access_token接口的封装 
 - 微信用户接口的封装 
 
---- 
 ## 工作经历 
 
 ### TCL（ 2016年8月 ~ 至今 ）
