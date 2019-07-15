@@ -1,6 +1,6 @@
 ## 联系方式
 
-- 手机：135-2044-3610
+- 手机：185-1180-7059
 - Email：jonnyliu0525@qq.com
 - 微信号： \_M0525M_
 
@@ -12,37 +12,36 @@
  - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
  - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
  - 期望职位：Java后台开发工程师
- - 期望薪资：税前22k~24k
  - 期望城市：北京
 
 ## 技能清单
 
 ### 硬技能
 
-- 英语：不抵触/不排斥阅读英文文档，能适应英文环境
-- 前端
-    - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发。
-    - 能写常用的js代码，能套页面。
 - 后端
-    - 熟悉分布式项目开发，了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净整洁的代码。
+    - 熟悉分布式系统开发，熟悉高并发系统常用解决方案，熟悉常用设计模式
     - 熟悉常用数据结构,熟悉JVM,AOP
-    - 熟练使用Spring Boot /Spring MVC /JPA /Mybatis/等开源框架,知晓其原理。
-    - 熟悉python，做过爬虫，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
-    - 熟悉HTTP协议;了解RPC框架原理
-    - 熟悉Nginx,熟练掌握linux shell。
+    - 熟练使用Spring Boot /Redis /RabbitMQ /Mybatis/等开源框架
+    - 熟悉Docker容器化部署
+    - 熟悉HTTP协议;熟悉RPC框架原理
+    - 有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净整洁的代码
 - 数据库
     - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
-    - 熟练使用redis/memcached/MongoDB等分布式缓存。
-
+    - 熟练使用Redis/MongoDB等分布式缓存
+- 英语：良好的阅读英文文档能力，能适应英文环境
+- 前端
+    - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发
+    - 能写常用的js代码，能套页面
 - 开放平台：微信公众号开发
 - 版本管理、自动化部署工具：Git/SVN/Maven/jenkins
 - 项目管理工具：Jira/Tower
 	
 ### 软技能
-
+- 以用户思维考虑技术实现，尽量简化服务方工作量
 - 主动沟通/乐于团队合作,有技术热情
 - 主动思考最优解,代码整洁
-
+- 良好的文档编写能力
+- 具有独立负责一个系统的能力
 
 ## 开源项目
 
@@ -61,9 +60,19 @@
 - 微信用户接口的封装 
 
 ## 工作经历 
-### 豆包网 ( 2017年4月 ~ 至今 )
+### 凡普金科 ( 2017年10月 ~ 至今 )
 ##### 主要使用技术
-- Spring Boot/Dubbo/activemq/Nginx/Redis
+- Spring Boot/Redis/Docker/Nginx
+
+##### 主要工作内容
+- 负责激光付快捷支付系统设计与代码优化
+- 负责对接快捷支付系统微信、支付宝等三方渠道
+- 负责快捷收银台设计与实现
+- 负责快捷支付系统对接华夏存管
+
+### 豆包网 ( 2017年4月 ~ 2017年10月 )
+##### 主要使用技术
+- Spring Boot/Dubbo/ActiveMQ/Nginx/Redis
 
 ##### 主要工作内容
 - 负责豆包网官网文章数据来源的爬取和存储
