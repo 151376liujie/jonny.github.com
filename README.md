@@ -2,7 +2,7 @@
 
 - 手机：185-1180-7059
 - Email：jonnyliu0525@qq.com
-- 微信号： \_M0525M_
+- 微信号： ![\_M0525M_](wechat-code.jpg)
 
 ## 个人信息
 
